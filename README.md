@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">Notable Challenge Project</h1>
   <p>Screenshot of the project
-  <img src="notable_sc1.png" alt="Screenshot">
+  <img src="notable_sc1.PNG" alt="Screenshot">
 </p>
 
 ## Getting Started
